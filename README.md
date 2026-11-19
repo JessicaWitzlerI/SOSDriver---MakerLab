@@ -37,6 +37,9 @@ Evolução em relação ao robô do MakerLab:
 
 Sistema inteligente de monitoramento ambiental e apoio ao motorista em situações de emergência veicular, desenvolvido como componente auxiliar da plataforma **SOSDriver**.
 
+<img width="520" height="428" alt="image" src="https://github.com/user-attachments/assets/4c0f3a0f-f089-4d29-bfaa-d2df0ba4bc0e" />
+
+
 ## 1. Sobre o projeto
 
 O **SOSDriver SmartBot** é um protótipo de robô IoT desenvolvido com ESP32 e sensores ambientais. Seu objetivo é monitorar condições que possam representar riscos durante uma situação de emergência veicular, como temperatura elevada, possível presença de gás ou fumaça e obstáculos próximos.
