@@ -3,7 +3,7 @@
 Robô inteligente de monitoramento ambiental para emergências veiculares, desenvolvido para a atividade CitizenTech (Global Solution, FIAP). O SmartBot é a evolução do robô criado na disciplina de MakerLab: ele lê sensores, envia os dados a um backend em Python e usa um LLM (Gemini) para interpretar o contexto e devolver uma orientação clara ao motorista.
 
 * Hardware simulado no Wokwi. Link do projeto no Wokwi: https://wokwi.com/projects/481127863533020161
-* Link do vídeo no youtube: https://youtu.be/xxyyfLUX-Ak
+* Link do vídeo no youtube: https://youtu.be/lkAHuYwVvZA
 
 ### Sumário
 * Problema e proposta
